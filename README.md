@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Name** | M Ayaan |
-| **Register number** | 1965260137 |
+| **Name** |R Nikitha sri |
+| **Register number** | 1965260035 |
 | **Course** | CSA0809 – Python Programming |
 | **Course outcome** | CO5 – data acquisition, cleaning, visualisation, profiling and introductory AI with Python |
 | **Python version** | Python 3.12 |
