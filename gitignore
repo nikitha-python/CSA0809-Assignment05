@@ -1,0 +1,3 @@
+B3_Loops_vs_Libraries_vs_SQL/data_gen/
+*.db
+__pycache__/
